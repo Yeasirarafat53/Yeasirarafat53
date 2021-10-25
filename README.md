@@ -130,3 +130,7 @@
     </td>
   </tr>
 </tbody></table>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yeasirarafat53&show_icons=true&locale=en&layout=compact" alt="yeasirarafat53" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yeasirarafat53&show_icons=true&locale=en" alt="yeasirarafat53" /></p>
