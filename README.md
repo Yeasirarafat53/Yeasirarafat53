@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Yeasir Arafat</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-### About Me😍
+<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+
 
 - 🔭 I’m currently working on **React.js**
 
@@ -26,7 +27,7 @@
 </div>
 
 
-### Languages and Tools:
+<h2> Languages and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
 <table>
   <tbody><tr>
