@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yeasir Arafat</h1>
 <h3 align="center">A passionate frontend developer</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=yeasirarafat53&label=Profile%20views&color=0e75b6&style=flat" alt="yeasirarafat53" /> </p>
 </br>
 
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" align="center" width = 100px></h2>
@@ -146,7 +147,7 @@
   <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' align="center" width='32px'> </h2>
   
 <div align="center">
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=yeasirarafat53&label=Profile%20views&color=0e75b6&style=flat" alt="yeasirarafat53" /> </p>
+  
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yeasirarafat53&count_private=true&show_icons=true&theme=dracula" />
 </a>
