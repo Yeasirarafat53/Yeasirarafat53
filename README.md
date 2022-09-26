@@ -1,4 +1,13 @@
 <h1 align="center">Hi 👋, [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&center=true&vCenter=true&lines=I'm+Yeasir+Arafat;Front+End+Developer)](https://git.io/typing-svg)</h1>
+
+<h3 align="center"> Hello < Programmers/ > <img src = "https://raw.githubusercontent.com/abskawser/abskawser/main/wave.gif" width ="25">
+   
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&center=true&vCenter=true&lines=I'm+ABS+Kawser;Front+End+Developer)](https://git.io/typing-svg)
+
+</h3>
+  
+  
+
 <h3 align="center">A passionate frontend developer</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=yeasirarafat53&label=Profile%20views&color=0e75b6&style=flat" alt="yeasirarafat53" /> </p>
 </br>
