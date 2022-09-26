@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&center=true&vCenter=true&lines=I'm+Yeasir+Arafat;Front+End+Developer)](https://git.io/typing-svg)</h1>
+<h1 align="center">Hi 👋,[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&center=true&vCenter=true&width=435&lines=I'm+Yeasir+Arafat;Front-end+Developer)](https://git.io/typing-svg)</h1>
 
-<h3 align="center"> Hello < Programmers/ > <img src = "https://raw.githubusercontent.com/abskawser/abskawser/main/wave.gif" width ="25">
+<!-- <h3 align="center"> Hello < Programmers/ > <img src = "https://raw.githubusercontent.com/abskawser/abskawser/main/wave.gif" width ="25">
    
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&center=true&vCenter=true&lines=I'm+ABS+Kawser;Front+End+Developer)](https://git.io/typing-svg)
 
-</h3>
+</h3> -->
   
   
 
