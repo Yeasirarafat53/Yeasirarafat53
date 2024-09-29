@@ -6,7 +6,7 @@
 
 </h1>
 
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate app developer</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=yeasirarafat53&label=Profile%20views&color=0e75b6&style=flat" alt="yeasirarafat53" /> </p>
 </br>
 
@@ -15,13 +15,13 @@
 
 - 🔭 I’m currently working on **React.js and React Native**
 
-- 🌱 I’m currently learning **React,Node,Express,MongoDB and everything.**
+- 🌱 I’m currently learning **React Native, React,Node,Express,MongoDB and everything.**
 
 - 👯 I’m looking to collaborate **with other Developers**
 
-- 🤝 I’m looking for help with **React.js**
+- 🤝 I’m looking for help with **React Native**
 
-- 💬 Ask me about **React.js**
+- 💬 Ask me about **React Native**
 
 - 📫 How to reach me **yeasirarafat1776@gmail.com**
 
