@@ -35,10 +35,12 @@
 <a href="https://github.com/Yeasirarafat53" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
+  
 <a href="https://www.facebook.com/yeasirarafat53" rel="nofollow"><img src="https://camo.githubusercontent.com/2d1ffa69dd491ebeca01b2098cf8233dd09950ff5895abccd5b455ca442abc59/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46616365626f6f6b2d3138373746323f7374796c653d666f722d7468652d6261646765266c6f676f3d66616365626f6f6b266c6f676f436f6c6f723d7768697465" alt="image" data-canonical-src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&amp;logo=facebook&amp;logoColor=white" style="max-width: 100%;"></a>
 <a href="https://instagram.com/yeasir_arafat_arif" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
+
 <a href="yeasirarafat1776@gmail.com"><img src="https://camo.githubusercontent.com/571384769c09e0c66b45e39b5be70f68f552db3e2b2311bc2064f0d4a9f5983b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" alt="image" data-canonical-src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;"></a></p>
 </div>
 
@@ -109,7 +111,7 @@
     
 <td align="center" width="96">
       <a href="#">
-       <img src="https://img.shields.io/badge/github-%2324292e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" style="max-width: 100%;">
+       <img src="https://img.shields.io/badge/Github-61DBFB?style=for-the-badge&logo=github&logoColor=black">
       </a>
       <br>Github
     </td>
