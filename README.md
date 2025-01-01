@@ -71,26 +71,18 @@
       <br>React Native
     </td>  
    
-       
-
    
-     <td align="center" width="96">
+   <td align="center" width="96">
       <a href="#">
         <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js style="max-width: 100%;" />
       </a>
       <br> Node.JS 
     </td>
-    <td align="center" width="96">
+   <td align="center" width="96">
       <a href="#">
         <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" style="max-width: 100%;">
       </a>
       <br>Express.Js
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="Nest.js style="max-width: 100%;">
-      </a>
-      <br>Nest.JS 
     </td>
     
    <td align="center" width="96">
@@ -114,9 +106,21 @@
       </a>
       <br>SQLite
     </td>
-
-
-
+    
+<td align="center" width="96">
+      <a href="#">
+        <img src="https://camo.githubusercontent.com/fb8f0070ec02bc94948f0a40a33d858f54c1c5c08b536f7daea3709f20f3de87/68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f6d6f64756c65732f6c6f676f735f706167652f4f63746f6361742e706e67" width="48" height="48" alt="Github" data-canonical-src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" style="max-width: 100%;">
+      </a>
+      <br>Github
+    </td>
+    
+<td align="center" width="96">
+      <a href="#">
+        <img src="https://camo.githubusercontent.com/1708ce976581ff41a169dc4d3161d41b91900ca2ea48db4950db36f9f45932af/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f392f39612f56697375616c5f53747564696f5f436f64655f312e33355f69636f6e2e737667" width="48" height="48" alt="VScode" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" style="max-width: 100%;">
+      </a>
+      <br>VScode
+    </td>
+  
 
     
     <td align="center" width="96">
