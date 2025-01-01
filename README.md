@@ -32,13 +32,15 @@
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' align="center" width="100px"> </h2>
 <div align="center" >
 <p>
-  <a href="https://www.linkedin.com/in/yeasir-arafat-997b791ba/" rel="nofollow"><img src="https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="image" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
+<!--   <a href="https://www.linkedin.com/in/yeasir-arafat-997b791ba/" rel="nofollow"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"></a> -->
   
 <a href="https://github.com/Yeasirarafat53" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  <a href="https://instagram.com/yeasir_arafat_arif" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a> <a href="yeasirarafat1776@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"></a></p>
+</a> 
+<!-- <a href="yeasirarafat1776@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"/></a> -->
+</p>
 </div>
 
 <br>
@@ -115,9 +117,9 @@
     
 <td align="center" width="96">
       <a href="#">
-        <img src="https://camo.githubusercontent.com/1708ce976581ff41a169dc4d3161d41b91900ca2ea48db4950db36f9f45932af/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f392f39612f56697375616c5f53747564696f5f436f64655f312e33355f69636f6e2e737667" width="48" height="48" alt="VScode" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" style="max-width: 100%;">
+        <img src="https://img.shields.io/badge/webstorm-000000?style=for-the-badge&logo=webstorm&logoColor=white">
       </a>
-      <br>VScode
+      <br>Webstorm
     </td>
   
   </tr>
