@@ -3,7 +3,7 @@
 <h1 align="center">Hello,
   
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&center=true&vCenter=true&width=435&lines=I'm+Yeasir+Arafat; App+Developer" alt="Typing SVG" /></a>
-
+  
 </h1>
 
 <h3 align="center">A passionate app developer</h3>
@@ -109,7 +109,7 @@
     
 <td align="center" width="96">
       <a href="#">
-        <img src="https://camo.githubusercontent.com/fb8f0070ec02bc94948f0a40a33d858f54c1c5c08b536f7daea3709f20f3de87/68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f6d6f64756c65732f6c6f676f735f706167652f4f63746f6361742e706e67" width="48" height="48" alt="Github" data-canonical-src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" style="max-width: 100%;">
+       <img src="https://img.shields.io/badge/github-%2324292e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" style="max-width: 100%;">
       </a>
       <br>Github
     </td>
@@ -121,70 +121,6 @@
       <br>VScode
     </td>
   
-
-    
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://camo.githubusercontent.com/e76db96833cc2ba21cac7145b4446a5673a4e70026e0b215ab48b21ad9532648/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f622f62322f426f6f7473747261705f6c6f676f2e737667" width="48" height="48" alt="Bootstrap" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" style="max-width: 100%;">
-      </a>
-      <br>Bootstrap
-    </td> -->
-<!--     <td align="center" width="96">
-      <a href="#">
-        <img src="https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667" width="48" height="48" alt="Postman" data-canonical-src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="max-width: 100%;">
-      </a>
-      <br>Postman
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://camo.githubusercontent.com/1b938a8770774c11ebdf27c1c371d173a48c6f0504cc224a8a6b47d5a8a332ac/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6d6f6e676f64622f6d6f6e676f64622d69636f6e2e737667" width="48" height="48" alt="MongoDB" data-canonical-src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" style="max-width: 100%;">
-      </a>
-      <br>MongoDB
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96"> 
-      <a href="#">
-        <img src="https://camo.githubusercontent.com/414133f161b78f61a2452120d5f81ea7ef13a6fcf0ac359382e1e012de4e874c/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f657870726573736a732f657870726573736a732d69636f6e2e737667" width="48" height="48" alt="ExpressJS" data-canonical-src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" style="max-width: 100%;">
-      </a>
-      <br>ExpressJS
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://camo.githubusercontent.com/55c96f41fc5dba5af624827c4205fdb469978360e0554d081b71cab80d0b2e1d/687474703a2f2f7777772e6572696b61736c616e642e636f6d2f7374617469632f696d616765732f6d6f6e676f6f73652e706e67" width="48" height="48" alt="Mongoose" style="max-width: 100%;">
-      </a>
-      <br>Mongoose
-    </td> -->
-<!--     <td align="center" width="96">
-      <a href="#">
-        <img src="https://camo.githubusercontent.com/fb8f0070ec02bc94948f0a40a33d858f54c1c5c08b536f7daea3709f20f3de87/68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f6d6f64756c65732f6c6f676f735f706167652f4f63746f6361742e706e67" width="48" height="48" alt="Github" data-canonical-src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" style="max-width: 100%;">
-      </a>
-      <br>Github
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://camo.githubusercontent.com/1708ce976581ff41a169dc4d3161d41b91900ca2ea48db4950db36f9f45932af/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f392f39612f56697375616c5f53747564696f5f436f64655f312e33355f69636f6e2e737667" width="48" height="48" alt="VScode" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" style="max-width: 100%;">
-      </a>
-      <br>VScode
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://camo.githubusercontent.com/990ef1f4073e53a6b9c73abb897b78f3e897707a36634cf70372ea1f5711f369/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f7465726d696e616c2d312e737667" width="48" height="48" alt="Terminal" data-canonical-src="https://cdn.worldvectorlogo.com/logos/terminal-1.svg" style="max-width: 100%;">
-      </a>
-      <br>Terminal
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://camo.githubusercontent.com/a9dd1874ba62546d3c033ee78358ccd8fd7c7d1b63e79da37a9d759904223cd5/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f642f64622f4e706d2d6c6f676f2e737667" width="48" height="48" alt="npm" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" style="max-width: 100%;">
-      </a>
-      <br>npm
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://camo.githubusercontent.com/5734d0669fe22ce04a1cb989a156cd32c379875f6bca56d5210c9432824856d9/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f7461696c77696e646373732f7461696c77696e646373732d69636f6e2e737667" width="48" height="48" alt="TailwindCSS" data-canonical-src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" style="max-width: 100%;">
-      </a>
-      <br>TailwindCSS
-    </td> -->
   </tr>
 </tbody></table>
 
